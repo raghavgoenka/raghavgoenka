@@ -1,13 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Raghav Goenka</h1>
 <h3 align="center">A passionate Android App Developer from India</h3>
+
 - 🔭 I’m currently Studying Computer Science <br>
 - 👨🏻‍💻  I’m looking to collaborate on cool projects <br>
 - 📫 How to reach me **raghavgoenka33@gmail.com**
 
+
 ### Connect with me:
-[<img align="left" alt="yash | LinkedIn" width="22px" src="https://raw.githubusercontent.com/yash3001/yash3001/master/res/linkedin_logo.png" />][linkedin]
-[<img align="left" alt="yash | Instagram" width="22px" src="https://raw.githubusercontent.com/yash3001/yash3001/master/res/instagram_logo.png" />][instagram]
+[<img align="left"  width="22px" src="https://raw.githubusercontent.com/yash3001/yash3001/master/res/linkedin_logo.png" />][linkedin]
+[<img align="left" width="22px" src="https://raw.githubusercontent.com/yash3001/yash3001/master/res/instagram_logo.png" />][instagram]
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
