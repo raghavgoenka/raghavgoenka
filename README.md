@@ -1,10 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Raghav Goenka</h1>
+<br>
+<img align="right"  width="400" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<br>
 <h3 align="center">A passionate Android App Developer from India</h3>
+
 
 - 🔭 I’m currently Studying Computer Science <br>
 - 👨🏻‍💻  I’m looking to collaborate on cool projects <br>
 - 📫 How to reach me **raghavgoenka33@gmail.com**
+
 
 
 ### Connect with me:
