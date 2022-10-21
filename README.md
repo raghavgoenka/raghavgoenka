@@ -26,6 +26,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghavgoenka&show_icons=true&locale=en" alt="raghavgoenka" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raghavgoenka&" alt="raghavgoenka" /></p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavgoenka&label=Profile%20views&color=0e75b6&style=flat" alt="raghavgoenka" /> </p>
 [instagram]: https://instagram.com/raghav__goenka
 [linkedin]: https://linkedin.com/in/https://www.linkedin.com/in/raghav-goenka-1a4b24195/
